@@ -5,3 +5,4 @@ seaborn
 pandas
 scikit-image
 scikit-learn
+sqlalchemy
