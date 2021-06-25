@@ -1,7 +1,7 @@
-skimage
 tensorflow==2.5.0
 pillow
-sklearn
 matplotlib
 seaborn
 pandas
+scikit-image
+scikit-learn
